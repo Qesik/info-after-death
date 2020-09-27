@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"c_death_info"	// chat
+	{
+		"#format"	"{1:.1f}"
+		"pl"		"Masz {1} sekund by przekazać info swojej drużynie"
+		"en"		"You have {1} second(s) to give information to your teammates"
+	}
+}
